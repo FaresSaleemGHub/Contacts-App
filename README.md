@@ -49,7 +49,7 @@ This project offers a simple, user-friendly contact management system built usin
 
 ##  🖼️ App Demo
 Here’s a quick preview of the app in action:
-![Contacts App Screenshot](assets/demo.png)
+![Contacts App Screenshot](assets/demo.PNG)
 
 ---
 
