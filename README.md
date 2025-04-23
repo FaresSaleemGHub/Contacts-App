@@ -1,7 +1,8 @@
 # 📇 Contacts App
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) <br>
 
 **Contacts App** is an Android application designed to help users manage their personal contacts efficiently. This app enables users to store, update, and delete contact information including names, phone numbers, and emails using a smooth and intuitive interface.
+This project came as part of explaining the topic of local databases SQLITE during my teaching work at the university in 2022. :) 
 
 ---
 
@@ -11,7 +12,6 @@ This project offers a simple, user-friendly contact management system built usin
 ---
 
 ## ✨ Features
-
 - 📤 **Add New Contact** – Easily add names, phone numbers, and email addresses.
 - ✏️ **Edit Contact** – Update existing contact information.
 - ❌ **Delete Contact** – Remove contacts you no longer need.
@@ -21,8 +21,7 @@ This project offers a simple, user-friendly contact management system built usin
 
 ---
 
-## 🔧 Used Techniques
-
+## 🔧 Used Technologies
 - ☎️ **Intent**
 - 📑 **Fragments**
 - 💾 **SQLite Database**
@@ -38,7 +37,6 @@ This project offers a simple, user-friendly contact management system built usin
 ---
 
 ## 🚀 Installation
-
 1. Clone the repository:
    ```bash
    git clone https://github.com/FaresSaleemGHub/Contacts-App.git
@@ -47,13 +45,16 @@ This project offers a simple, user-friendly contact management system built usin
 
 ---
 
+## 🛠️ Built With
+- **Java** – for backend logic
+- **XML** – for Android UI layouts
+- **Android Studio** – development environment
+- **Gradle** – build system
+
+  ---
+
 ##  🖼️ App Demo
 ![Contacts App Screenshot](assets/demo.PNG)
-
----
-
-## 📝 About the Project
-This project came as part of explaining the topic of local databases SQLITE during my teaching work at the university in 2022.
 
 ---
 ## 👤 Author
